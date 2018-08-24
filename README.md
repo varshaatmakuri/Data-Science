@@ -1,2 +1,1 @@
-# Data-Science
-Data science projects
+Car Price prediction - Linear Regression
